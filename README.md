@@ -1,1 +1,3 @@
 # Solar-irradiation-prediction-using-satellite-images-GOES-16-
+
+ENEL Colombia's Solar Irradiance Projection Project is dedicated to developing an advanced forecasting model that utilizes Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Markov chains. The project's primary objective is to accurately predict day-ahead prices, empowering solar energy producers to effectively hedge costs and optimize decision-making. By leveraging these cutting-edge technologies, the project aims to enhance resource allocation, maximize profitability, and drive the adoption of solar energy as a sustainable and economically advantageous solution in Colombia's energy market.
