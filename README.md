@@ -1,0 +1,1 @@
+# Solar-irradiation-prediction-using-satellite-images-GOES-16-
